@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391932900152",
+    "project_id": "r-two-12b80",
+    "storage_bucket": "r-two-12b80.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391932900152:android:02cbc4eab8cc88fa8007cd",
+        "android_client_info": {
+          "package_name": "com.aymenshaheen.r2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJC9UDI2NvVeTQ5vlCX6m2WBHBh7CHSmg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

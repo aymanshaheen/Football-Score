@@ -1,0 +1,47 @@
+class AppStrings {
+  AppStrings._();
+  static const String noRouteFound = "No Route Found";
+  static const String home = "Matches";
+  static const String points = "Points";
+  static const String nextMatch = "Next Match";
+  static const String upcoming = "Upcoming Matches";
+  static const String last5Match = "Last 5 Matches";
+  static const String fixtures = "Fixtures";
+  static const String standings = "Standings";
+  static const String footballista = "R2";
+  static const String ligue = "Ligues";
+  static const String favourite = "Favorites";
+  static const String averagePossesion = "Average Possession";
+  static const String topStats = "Top Stats";
+  static const String settings = "Settings";
+  static const String search = "Search";
+  static const String competition = "All Competitions";
+  static const String findLeague = "Find League";
+  static const String league = "Leagues";
+  static const String vs = "Vs";
+  static const String round = "Round";
+  static const String live = "Live";
+  static const String end = "End";
+  static const String notStarted = "Not Started";
+  static const String statistics = "Statistics";
+  static const String lineups = "Lineups";
+  static const String events = "Events";
+  static const String goal = "Goal";
+  static const String missedPenalty = "Missed Penalty";
+  static const String assist = "Assist";
+  static const String noAssist = "No Assist";
+  static const String card = "Card";
+  static const String yellowCard = "Yellow Card";
+  static const String subst = "subst";
+  static const String viewFixtures = "View Fixtures";
+  static const String liveFixtures = "Live Fixtures";
+  static const String viewAll = "VIEW ALL";
+  static const String reachedLimits =
+      "You have reached the request limit for the day";
+  static const String reload = "Reload";
+  static const String noStats = "Statistics not available";
+  static const String noLineups = "Lineups not available";
+  static const String noEvents = "Events not available";
+  static const String noFixtures = "No Fixtures scheduled today";
+  static const String appName = "R2";
+}

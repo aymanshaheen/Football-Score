@@ -1,0 +1,60 @@
+name: Goal
+description: Football App
+
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.6 <4.0.0"
+
+dependencies:
+  bloc: ^8.1.0
+  collection: ^1.15.0
+  cupertino_icons: ^1.0.5
+  dartz: ^0.10.1
+  scrollable_positioned_list: ^0.3.8
+  animations:
+  animated_text_kit:
+  firebase_core: 
+  cloud_firestore: 
+  firebase_storage: 
+  firebase_auth:
+  google_sign_in: 
+  dio: ^5.3.3
+  equatable: ^2.0.5
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.1
+  fluttertoast: ^8.2.2
+  get_it: ^7.2.0
+  hexcolor: ^3.0.1
+  internet_connection_checker: ^1.0.0+1
+  intl: ^0.18.1
+  font_awesome_flutter:
+  image_picker:
+  shared_preferences: ^2.0.13
+
+
+
+
+dev_dependencies:
+  flutter_lints: ^3.0.0
+  flutter_launcher_icons: "^0.13.1"
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/goal.png"
+  background_color: "#3A3939" 
+
+
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+
