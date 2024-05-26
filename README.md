@@ -42,7 +42,12 @@ The Football App is a mobile application that provides users with live scores, m
 - **State Management:** BLoC (Business Logic Component)
 - **Dependency Injection:** get_it
 - **HTTP Client:** Dio
-- **Local Database:** Hive
+- **Local Database:** Shared Preferences
+- **Authentication:** Firebase Auth
+- **Storage:** Firebase Storage
+- **Data Streams:** Firestore
+- **Google Sign-In:** Firebase Authentication
+- **Architecture Pattern:** Clean Architecture
 
 
 
