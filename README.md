@@ -4,10 +4,11 @@ The Football App is a mobile application that provides users with live scores, m
 ## ScreenShots
 
 <p float="left">
-    <img src="https://raw.githubusercontent.com/rho-cassiopeiae/the12thplayer/dev/.github/images/1.png" width="24%" />
-    <img src="https://raw.githubusercontent.com/rho-cassiopeiae/the12thplayer/dev/.github/images/2.png" width="24%" />
-    <img src="https://raw.githubusercontent.com/rho-cassiopeiae/the12thplayer/dev/.github/images/5.png" width="24%" />
-    <img src="https://raw.githubusercontent.com/rho-cassiopeiae/the12thplayer/dev/.github/images/7.png" width="24%" />
+    <img src="https://drive.google.com/file/d/123yFBEQi9mR7-pQcM-tGvLWZwNRjHjLD/view?usp=drive_link" width="24%" />
+    <img src="https://drive.google.com/file/d/1G7mdYPN9VfMG7fDeX7EioJg9NcWRnXau/view?usp=drive_link" width="24%" />
+    <img src="https://drive.google.com/file/d/12tO6joyxt4m4N_jLvZ6wDQJp1VkqqoeR/view?usp=drive_link" width="24%" />
+    <img src="https://drive.google.com/file/d/10O_SojwEbmOGqe2nG3KytO-BKWUBCngm/view?usp=drive_link" width="24%" />
+    <img src="https://drive.google.com/file/d/1nZvRJI8-dRsjvFgA7Iv6c5rTWkvH4lbh/view?usp=drive_link" width="24%" />
 </p>
 
 <details>
