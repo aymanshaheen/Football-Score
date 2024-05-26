@@ -1,6 +1,9 @@
 # R2
+![descriptive alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 The Football App is a mobile application that provides users with live scores, match schedules, player statistics, and more.This App Ui is like FotMob app, Whether you're a football enthusiast or just want to keep track of your favorite teams and players.
+<img src="./public/screenshot.gif" width="50%" height="auto" alt="Screenshot">
+
 
 
 ## Features
@@ -47,8 +50,3 @@ Run the app:
 ```
     
 
-[I'm an inline-style link](https://www.google.com)
-
-[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
-
-![descriptive alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
