@@ -23,7 +23,7 @@ The Football App is a mobile application that provides users with live scores, m
 <p float="left">
    <img src="https://github.com/aymanshaheen/Football-Score/assets/52037629/d1fceadc-82d3-4eab-b21e-fdf3c5283d63" width="32%" />
    <img src="https://github.com/aymanshaheen/Football-Score/assets/52037629/7d7661e2-1e20-4f08-b448-213bc1246db7" width="32%" />
-   <img src="https://github.com/aymanshaheen/Football-Score/assets/52037629/1c6967b4-3e39-4cb3-9c61-edbf492e4ee8" width="32%" />
+   <img src="https://github.com/aymanshaheen/Football-Score/assets/52037629/aced511d-3289-4f5e-b740-39b58c981fac" width="32%" />
 </p>
 
 </details>
