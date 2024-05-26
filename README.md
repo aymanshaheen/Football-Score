@@ -1,7 +1,8 @@
 # R2
-![descriptive alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-The Football App is a mobile application that provides users with live scores, match schedules, player statistics, and more.This App Ui is like FotMob app, Whether you're a football enthusiast or just want to keep track of your favorite teams and players.
+The Football App is a mobile application that provides users with live scores, match schedules, player statistics, and more, This App UI is like the FotMob app, Whether you're a football enthusiast or just want to keep track of your favorite teams and players.
+## ScreenShots
+
 <p float="left">
     <img src="https://raw.githubusercontent.com/rho-cassiopeiae/the12thplayer/dev/.github/images/1.png" width="24%" />
     <img src="https://raw.githubusercontent.com/rho-cassiopeiae/the12thplayer/dev/.github/images/2.png" width="24%" />
