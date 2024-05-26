@@ -37,14 +37,14 @@ The Football App is a mobile application that provides users with live scores, m
 
 - Google sign-in
 - Match schedules and results
-- Match statistics and head to head
+- Match statistics and head-to-head
 - Detailed player and team statistics
 - User-friendly interface
 
 
 ## API Reference
 This is a freemium API  that gives you only 50 requests per day. 
-```http
+```HTTP
   GET https://v3.football.api-sports.io/
 ```
 
@@ -78,6 +78,4 @@ Run the app:
 
 ## Keep in mind
 
-- The app is a work in progress. There are still many essential things missing — input validation, tests, graceful error display, lots of UI elements, better caching — just to name a few.
-- UI colors are supposed to change depending on which team community is selected. At the moment though all colors are simply hardcoded.
 - The app hasn't been tested on IOS devices (even an emulator) as of yet, since I don't have a Mac, which is required to build an actual executable file. The app itself doesn't have any platform-specific code, though there are a couple of dependencies that do. I configured them according to the instructions, so the app should work fine on both Android and IOS.
