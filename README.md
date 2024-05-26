@@ -45,7 +45,7 @@ The Football App is a mobile application that provides users with live scores, m
 ## API Reference
 This is a freemium API  that gives you only 50 requests per day. 
 ```HTTP
-  GET https://v3.football.api-sports.io/
+    https://v3.football.api-sports.io/
 ```
 
 | Parameter | Type     | Description                |
