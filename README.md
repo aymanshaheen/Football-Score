@@ -12,28 +12,21 @@ The Football App is a mobile application that provides users with live scores, m
    <img src="https://github.com/aymanshaheen/Football-Score/assets/52037629/cb60932d-b81d-4533-b003-764df200d061" width="18%" />
    <img src="https://github.com/aymanshaheen/Football-Score/assets/52037629/28f934e1-5043-4815-bfd3-e116a88d5d5f" width="18%" />
 </p>
-
 <details>
 <summary>More screenshots</summary>
 
 <p float="left">
-    <img src="https://raw.githubusercontent.com/rho-cassiopeiae/the12thplayer/dev/.github/images/8.png" width="32%" />
-    <img src="https://raw.githubusercontent.com/rho-cassiopeiae/the12thplayer/dev/.github/images/4.png" width="32%" />
-    <img src="https://raw.githubusercontent.com/rho-cassiopeiae/the12thplayer/dev/.github/images/12.png" width="32%" />
+   <img src="https://github.com/aymanshaheen/Football-Score/assets/52037629/6c92510f-ac91-4fb5-bf4a-bf9903443fd2" width="32%" />
+   <img src="https://github.com/aymanshaheen/Football-Score/assets/52037629/410557f8-b404-4b40-aed8-cc06fe44f497" width="32%" />
+   <img src="https://github.com/aymanshaheen/Football-Score/assets/52037629/d08b0615-4e46-44c3-abe0-7fb0bc7163d6" width="32%" />
 </p>
 <p float="left">
-    <img src="https://raw.githubusercontent.com/rho-cassiopeiae/the12thplayer/dev/.github/images/9.png" width="32%" />
-    <img src="https://raw.githubusercontent.com/rho-cassiopeiae/the12thplayer/dev/.github/images/6.png" width="32%" />
-    <img src="https://raw.githubusercontent.com/rho-cassiopeiae/the12thplayer/dev/.github/images/13.png" width="32%" />
-</p>
-<p float="left">
-    <img src="https://raw.githubusercontent.com/rho-cassiopeiae/the12thplayer/dev/.github/images/10.png" width="32%" />
-    <img src="https://raw.githubusercontent.com/rho-cassiopeiae/the12thplayer/dev/.github/images/11.png" width="32%" />
-    <img src="https://raw.githubusercontent.com/rho-cassiopeiae/the12thplayer/dev/.github/images/3.png" width="32%" />
+   <img src="https://github.com/aymanshaheen/Football-Score/assets/52037629/d1fceadc-82d3-4eab-b21e-fdf3c5283d63" width="32%" />
+   <img src="https://github.com/aymanshaheen/Football-Score/assets/52037629/7d7661e2-1e20-4f08-b448-213bc1246db7" width="32%" />
+   <img src="https://github.com/aymanshaheen/Football-Score/assets/52037629/1c6967b4-3e39-4cb3-9c61-edbf492e4ee8" width="32%" />
 </p>
 
 </details>
-
 
 
 ## Features
