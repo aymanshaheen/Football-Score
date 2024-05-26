@@ -37,17 +37,18 @@ The Football App is a mobile application that provides users with live scores, m
 - Detailed player and team statistics
 - User-friendly interface
 
+## Technologies Used
+
+- **State Management:** BLoC (Business Logic Component)
+- **Dependency Injection:** get_it
+- **HTTP Client:** Dio
+- **Local Database:** Hive
+
+
 
 ## API Reference
-This is a freemium API  that gives you only 50 requests per day. 
-```HTTP
-    https://v3.football.api-sports.io/
-```
-
-| Parameter | Type     | Description                |
-| :-------- | :------- | :------------------------- |
-| `api_key` | `string` | **Required**. Your API key |
-
+This is a freemium API that gives you only 100 request per day. 
+[https://v3.football.api-sports.io/](https://v3.football.api-sports.io/)
 
 
 
