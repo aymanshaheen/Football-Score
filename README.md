@@ -1,9 +1,8 @@
 # R2
 
 The Football App is a mobile application that provides users with live scores, match schedules, player statistics, and more, This App UI is like the FotMob app, Whether you're a football enthusiast or just want to keep track of your favorite teams and players.
+
 ## ScreenShots
-
-
 
 <p float="left">
    <img src="https://github.com/aymanshaheen/Football-Score/assets/52037629/500d8d09-19bf-4362-a8e0-7ec49b7ebe01" width="18%" />
@@ -52,7 +51,7 @@ The Football App is a mobile application that provides users with live scores, m
 
 
 ## API Reference
-This is a freemium API that gives you only 100 request per day. 
+This is a freemium API that gives you only 100 request per day and has a limit of 10 requests per minute. 
 [https://v3.football.api-sports.io/](https://v3.football.api-sports.io/)
 
 
